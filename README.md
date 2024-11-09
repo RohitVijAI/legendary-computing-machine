@@ -12,6 +12,3 @@ Steps to setup branch:
 - 2. Createings new branch:
     - git checkout -b name pf the branch 
 
-- 3. When pushing to a new branch write:
-    - gut push origin name_of_the_branch
- 
